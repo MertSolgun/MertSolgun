@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @MertSolgun
-- 👀 I’m interested in Python..
+- I’m interested in web  development.
+- Languages and Tools
+- HTML CSS JavaScript Python
 - 🌱 I’m currently learning Python and JavaScript
 - 📫 How to reach me solgunmert@gmail.com
 
