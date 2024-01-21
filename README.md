@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MertSolgun
 - I’m interested in web  development.
-- Languages and Tools
 - HTML CSS Tailwind Css React JavaScript Python
 - 📫 How to reach me solgunmert@gmail.com
 
