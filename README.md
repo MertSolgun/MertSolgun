@@ -13,7 +13,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,mui,javascript,react,redux,tailwindcss,nextjs,vite,figma,nodejs,firebase,git,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,mui,javascript,react,redux,tailwindcss,nextjs,vite,figma,nodejs,firebase,git,&theme=light&perline=8)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mertsolgun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
